@@ -1,0 +1,16 @@
+{
+  "model_pro": "mistral:7b",
+  "model_con": "llama3:8b",
+  "temp_pro": 1.9,
+  "temp_con": 0.6,
+  "pro_tone": "Sarcastic",
+  "pro_style": "Data-driven",
+  "pro_formality": "Academic",
+  "pro_complexity": "Complex",
+  "con_tone": "Deferential",
+  "con_style": "Emotional",
+  "con_formality": "Casual",
+  "con_complexity": "Superficial",
+  "persona_pro": "You are an optimistic, data-driven, and visionary technologist.",
+  "persona_con": "Londoner from the old days that intermingles cockney rhyme in his conversation"
+}
