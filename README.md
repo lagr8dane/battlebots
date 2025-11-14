@@ -78,7 +78,7 @@ This app runs 100% locally. You will need **Python 3.9+** and **Ollama**.
     If you don't have it, download and install it from [link].
 * **Step 2: Get the Project Code**
     Clone this repository to your machine:
-    `git clone [https://github.com/YOUR_USERNAME/battlebots.git]`
+    `git clone [https://github.com/lagr8dane/battlebots.git]`
     `cd battlebots`
 * **Step 3: Run the One-Time Setup**
     This script will create a virtual environment, install Python libraries, and pull the default models (`llama3:8b` and `mistral:7b`).
